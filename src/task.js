@@ -146,7 +146,7 @@ function App() {
                 }}
               >
                 <option>--select--</option>
-                <option value="HD+">HD+</option>
+                <option value="HD+">ULTRA HD</option>
                 <option value="HD">HD</option>
                 <option value="NORMAL">NORMAL</option>
               </select>
