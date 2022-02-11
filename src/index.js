@@ -1,7 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import App from "./task";
+import App from "./App";
+// import App from "./task";
 // import store from "./store";
 // import App from './ChangeRD'
 // import { Provider } from "react-redux";
